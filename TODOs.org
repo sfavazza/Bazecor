@@ -1,0 +1,7 @@
+:PROPERTIES:
+:CATEGORY: Bazecor-sfavazza
+:END:
+* notes
+- starting point to modify the defy firmware: https://github.com/Dygmalab/Kaleidoscope-Dygma
+- add few lines to describe where the firmware can be customized:
+  - give a panoramic view of the DYGMA available public repositories

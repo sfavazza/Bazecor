@@ -1,0 +1,8 @@
+version: '3'
+services:
+  bazecor-dev:
+    image: bazecor-dev:0
+    stdin_open: true
+    tty: true
+    volumes:
+    - .:/code
